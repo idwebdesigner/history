@@ -454,7 +454,7 @@
 }
 
 .compare__item .product__price {
-	color: #CECECE;
+	color: #2A2B30;
 }
 
 .compare__item span[class^="product__"] {
@@ -641,4 +641,5 @@
 
 .period1-500:before {
   content: "1 - 500";
+  text-align: center;
 }
