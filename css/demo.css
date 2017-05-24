@@ -151,7 +151,7 @@ a:hover {
 }
 
 .bp-header nav a:hover {
-	background: #5C5EDC;
+	background: none;
 }
 
 .bp-icon:after {
@@ -198,6 +198,12 @@ a:hover {
 
 .bp-icon-prev:after {
 	content: '\e004';
+}
+
+.bp-icon-1-500:after {
+	content: '1-500';
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #f0f0f0;
 }
 
 @media screen and (max-width: 40em) {
