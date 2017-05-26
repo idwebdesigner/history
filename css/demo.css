@@ -206,6 +206,18 @@ a:hover {
 	color: #f0f0f0;
 }
 
+.bp-icon-500BC-AD1:after {
+	content: '500 BC - AD 1';
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #f0f0f0;
+}
+
+.bp-icon-500-1000:after {
+	content: '500-1000';
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #f0f0f0;
+}
+
 @media screen and (max-width: 40em) {
 	.bp-header h1 {
 		font-size: 1.8em;
