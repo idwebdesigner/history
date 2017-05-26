@@ -126,11 +126,11 @@ a:hover {
 .bp-header nav a {
 	position: relative;
 	display: inline-block;
-	width: 3.5em;
+	width: 5.5em;
 	height: 2.5em;
-	margin: 0 .1em;
-	text-align: left;
-	border-radius: 50%;
+	margin: 0em;
+	text-align: center;
+	border-radius: 0%;
 }
 
 .bp-header nav a > span {
@@ -167,11 +167,11 @@ a:hover {
 }
 
 .bp-header nav .bp-icon:after {
-	line-height: 2.4;
+	line-height: 1.4;
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 120%;
 	height: 100%;
 	text-indent: 0;
 }
@@ -201,7 +201,7 @@ a:hover {
 }
 
 .bp-icon-1-500:after {
-	content: '1-500';
+	content: '1 - 500';
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #f0f0f0;
 }
@@ -213,7 +213,7 @@ a:hover {
 }
 
 .bp-icon-500-1000:after {
-	content: '500-1000';
+	content: '500 - 1000';
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #f0f0f0;
 }
