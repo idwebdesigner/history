@@ -276,3 +276,136 @@ a:hover {
   text-align: center;
   font-size: 0.85em;
 }
+
+#modal {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modal:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+
+#modal h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modal .btn { float: right }
+
+#modal .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modal-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modal .copy { background: #2A2B30 }
+
+#modal .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+#modal2 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modal2:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+
+#modal2 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modal2 .btn { float: right }
+
+#modal2 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modal2-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modal2 .copy { background: #2A2B30 }
+
+#modal2 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
