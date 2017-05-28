@@ -1715,3 +1715,268 @@
   border-radius: 5px;
   background-color: #5C5EDC;
 }
+
+
+
+#modaleurope-11 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modaleurope-11:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modaleurope-11 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modaleurope-11 .btn { float: right }
+
+#modaleurope-11 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modaleurope-11-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modaleurope-11 .copy { background: #2A2B30 }
+
+#modaleurope-11 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+#modaleurope-12 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modaleurope-12:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modaleurope-12 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modaleurope-12 .btn { float: right }
+
+#modaleurope-12 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modaleurope-12-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modaleurope-12 .copy { background: #2A2B30 }
+
+#modaleurope-12 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+#modaleurope-13 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modaleurope-13:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modaleurope-13 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modaleurope-13 .btn { float: right }
+
+#modaleurope-13 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modaleurope-13-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modaleurope-13 .copy { background: #2A2B30 }
+
+#modaleurope-13 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+#modaleurope-14 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modaleurope-14:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modaleurope-14 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modaleurope-14 .btn { float: right }
+
+#modaleurope-14 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modaleurope-14-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modaleurope-14 .copy { background: #2A2B30 }
+
+#modaleurope-14 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
