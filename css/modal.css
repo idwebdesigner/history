@@ -62,3 +62,270 @@
   border-radius: 5px;
   background-color: #5C5EDC;
 }
+
+
+#modalmiddleeast2 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modalmiddleeast2:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modalmiddleeast2 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modalmiddleeast2 .btn { float: right }
+
+#modalmiddleeast2 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modalmiddleeast2-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modalmiddleeast2 .copy { background: #2A2B30 }
+
+#modalmiddleeast2 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+
+#modalmiddleeast3 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modalmiddleeast3:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modalmiddleeast3 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modalmiddleeast3 .btn { float: right }
+
+#modalmiddleeast3 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modalmiddleeast3-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modalmiddleeast3 .copy { background: #2A2B30 }
+
+#modalmiddleeast3 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+
+#modalmiddleeast4 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modalmiddleeast4:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modalmiddleeast4 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modalmiddleeast4 .btn { float: right }
+
+#modalmiddleeast4 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modalmiddleeast4-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modalmiddleeast4 .copy { background: #2A2B30 }
+
+#modalmiddleeast4 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
+
+
+
+#modalmiddleeast5 {
+  left: 50%;
+  font-size: 0.85em;
+  margin: -250px 0 0 -32%;
+  opacity: 0;
+  position: absolute;
+  top: -50%;
+  visibility: hidden;
+  width: 65%;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modalmiddleeast5:target {
+  opacity: 1;
+  top: 50%;
+  visibility: visible
+}
+
+#modalmiddleeast5 h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modalmiddleeast5 .btn { float: right }
+
+#modalmiddleeast5 .copy, #modal .header, #modal .footer {
+  padding: 10px 10px 20px 10px;
+  color: #fff
+}
+
+.modalmiddleeast5-content {
+  background: #2A2B30;
+  position: relative;
+  z-index: 1004;
+  border-radius: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#modalmiddleeast5 .copy { background: #2A2B30 }
+
+#modalmiddleeast5 .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1003;
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #5C5EDC;
+}
